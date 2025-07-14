@@ -1,3 +1,4 @@
+#Safe Overtime Pay Calculator
 hrs = input("Enter Hours:")
 rate = input("Enter Rate:")
 try :
